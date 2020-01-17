@@ -3,7 +3,6 @@ This is a 'C' implementation of Hash Tables using Linked List and Binary Search 
 
 Here KEYS are INTs and VALUES are CHARs and this data is generated while compiling the program.
 
-To compile the program:
-# make
-followed by 
-# ./make
+# To compile the program:
+ make
+./make
